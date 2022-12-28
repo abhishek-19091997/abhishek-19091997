@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **abpatra000@gmail.com**
 
+- After B-tech in EEE i found very much interest in web-devlopement so then i joined Masai School for Full-Stack Devlopement And I have very much intrest in Singing,playing mobile games.
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BPWinV-VIs8Sj5niO4hdnj1jwPQN5Vwj/view?usp=share_link](https://drive.google.com/file/d/1BPWinV-VIs8Sj5niO4hdnj1jwPQN5Vwj/view?usp=share_link)
 
 ---
@@ -41,11 +43,9 @@
 ---
 
 
-### My Github Status:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-19091997&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's github status" />
 
----
+
 
 ### Top Usage Languages:
 
@@ -53,8 +53,17 @@
 
 ---
 
-### StarDev Ranking
+### My Github Status:
 
-<a href="https://stardev.io/developers/said7388"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/abhishek-19091997/badge/languages/locality.svg" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-19091997&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's github status" />
+
+---
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-19091997&" alt="abhishek-19091997" /></p>
+
+
 
 ---

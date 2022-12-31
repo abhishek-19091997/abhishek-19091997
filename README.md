@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Yotube Clone](https://github.com/anuj-midha247/UTUBE_CLONE.git)
 
-- 👨‍💻 All of my projects are available at [https://clever-sawine-9b3bf7.netlify.app](https://clever-sawine-9b3bf7.netlify.app)
+- 👨‍💻 All of my projects are available at [My portfolio](https://abhishek-patra-portfolio.netlify.app)
 
 - 💬 Ask me about **React,javascript**
 
